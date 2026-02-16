@@ -1,4 +1,4 @@
-# Implementare Decodor Coduri de Bare EAN-13
+# Implementare Decoder EAN-13
 
 ## Funcționalități
 
